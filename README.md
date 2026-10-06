@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hola, soy Cristian Aceituno
 
-<!--
-**CristianAceRam/CristianAceRam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador full-stack (FastAPI · React) y estudiante de 2º de DAM en el IES Hermenegildo Lanz, Granada. Construyo aplicaciones web completas para clientes reales, desde la base de datos hasta el despliegue.
 
-Here are some ideas to get you started:
+**Busco prácticas (formación en empresa) de febrero a mayo de 2027** en Granada o Jaén, presencial o híbrido.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+
+### [RMolinaStyle](https://github.com/Choqueteo/AplicacionWebMolina) · en producción en [rmolinastyle.com](https://rmolinastyle.com)
+
+Reservas online para una barbería real. Los clientes reservan, cancelan y reprograman desde el móvil; el barbero gestiona agenda, servicios y horarios, y recibe los avisos por Telegram.
+
+- Solapes de citas imposibles a nivel de base de datos: `UNIQUE` por franja, inserción en una sola transacción y `409 Conflict`.
+- JWT + bcrypt, control de acceso por objeto, rate limiting, CSP y HSTS.
+- RGPD: consentimiento versionado, exportación de datos, anonimización de cuentas y purga programada.
+- Tests con pytest en cada endpoint, migraciones con Alembic e infraestructura declarada en `render.yaml`.
+
+`FastAPI` `SQLAlchemy 2` `PostgreSQL` `React 19` `Vite` `Docker` `Render`
+
+### [πίστη](https://github.com/Choqueteo/AplicacionWebBarberiaYRopa) · cliente real, pendiente de despliegue
+
+Citas de barbería y catálogo de ropa en una sola app, con panel de administración completo y frontend mobile-first.
+
+`FastAPI` `PostgreSQL` `React` `Vite` `Cloudinary`
+
+### [Gestor de prácticas](https://github.com/Choqueteo/gestor-practicas-hlanz) · proyecto de grupo, IES Hermenegildo Lanz
+
+Aplicación para gestionar las prácticas del centro, con autenticación JWT y control de acceso por roles. Me encargué del stack completo: backend, frontend y base de datos.
+
+`FastAPI` `MariaDB` `React`
+
+## Stack
+
+- **Backend:** Python, FastAPI, SQLAlchemy, Pydantic, pytest, Alembic
+- **Frontend:** React, JavaScript, Vite
+- **Datos:** PostgreSQL, MariaDB, SQL
+- **Infra:** Docker, Nginx, Git, Render
+- **En el ciclo:** Java (JDBC/ORM), Android, Odoo
+
+## Cómo trabajo
+
+Uso Claude Code y agentes de programación en mi flujo diario: especifico el proyecto en un `CLAUDE.md`, reviso cada cambio y lo cubro con tests. La IA acelera; las decisiones y la revisión son mías.
+
+## Contacto
+
+- Email: cristianaceitunor9@gmail.com
+- LinkedIn: [pendiente de creacion]
+- Español nativo · Inglés C1 (Cambridge)
