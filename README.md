@@ -23,9 +23,9 @@ Citas de barbería y catálogo de ropa en una sola app, con panel de administrac
 
 `FastAPI` `PostgreSQL` `React` `Vite` `Cloudinary`
 
-### [Gestor de prácticas](https://github.com/Choqueteo/gestor-practicas-hlanz) · proyecto de grupo, IES Hermenegildo Lanz
+### [Gestor de prácticas](https://github.com/Choqueteo/gestor-practicas-hlanz) · proyecto de grupo, IES Hermenegildo Lanz · en producción en [gestor-practicas-hlanz.vercel.app/](https://gestor-practicas-hlanz.vercel.app/)
 
-Aplicación para gestionar las prácticas del centro, con autenticación JWT y control de acceso por roles. Me encargué del stack completo: backend, frontend y base de datos.
+Aplicación para gestionar las prácticas del centro, con autenticación JWT y control de acceso por roles. Me encargué del stack completo: backend, frontend y base de datos. El despliegue formaba parte del proyecto, lo hice de forma gratuita con la herramienta vercel.
 
 `FastAPI` `MariaDB` `React`
 
