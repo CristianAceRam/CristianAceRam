@@ -6,7 +6,7 @@ Desarrollador full-stack (FastAPI · React) y estudiante de 2º de DAM en el IES
 
 ## Proyectos
 
-### [RMolinaStyle](https://github.com/Choqueteo/AplicacionWebMolina) · en producción en [rmolinastyle.com](https://rmolinastyle.com)
+### [RMolinaStyle](https://github.com/CristianAceRam/AplicacionWebMolina) · en producción en [rmolinastyle.com](https://rmolinastyle.com)
 
 Reservas online para una barbería real. Los clientes reservan, cancelan y reprograman desde el móvil; el barbero gestiona agenda, servicios y horarios, y recibe los avisos por Telegram.
 
@@ -17,13 +17,13 @@ Reservas online para una barbería real. Los clientes reservan, cancelan y repro
 
 `FastAPI` `SQLAlchemy 2` `PostgreSQL` `React 19` `Vite` `Docker` `Render`
 
-### [πίστη](https://github.com/Choqueteo/AplicacionWebBarberiaYRopa) · cliente real, pendiente de despliegue
+### [πίστη](https://github.com/CristianAceRam/AplicacionWebBarberiaYRopa) · cliente real, pendiente de despliegue
 
 Citas de barbería y catálogo de ropa en una sola app, con panel de administración completo y frontend mobile-first.
 
 `FastAPI` `PostgreSQL` `React` `Vite` `Cloudinary`
 
-### [Gestor de prácticas](https://github.com/Choqueteo/gestor-practicas-hlanz) · proyecto de grupo, IES Hermenegildo Lanz · en producción en [gestor-practicas-hlanz.vercel.app/](https://gestor-practicas-hlanz.vercel.app/)
+### [Gestor de prácticas](https://github.com/CristianAceRam/gestor-practicas-hlanz) · proyecto de grupo, IES Hermenegildo Lanz · en producción en [gestor-practicas-hlanz.vercel.app/](https://gestor-practicas-hlanz.vercel.app/)
 
 Aplicación para gestionar las prácticas del centro, con autenticación JWT y control de acceso por roles. Me encargué del stack completo: backend, frontend y base de datos. El despliegue formaba parte del proyecto, lo hice de forma gratuita con la herramienta vercel.
 
