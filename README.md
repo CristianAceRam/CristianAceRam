@@ -44,5 +44,8 @@ Uso Claude Code y agentes de programación en mi flujo diario: especifico el pro
 ## Contacto
 
 - Email: cristianaceitunor9@gmail.com
-- LinkedIn: [pendiente de creacion]
+- LinkedIn: www.linkedin.com/in/cristian-aceituno-ramírez
+cristian-aceituno-ramírez
+Nombre de la URL personalizada
+
 - Español nativo · Inglés C1 (Cambridge)
