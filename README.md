@@ -2,7 +2,8 @@
 
 Desarrollador full-stack (FastAPI · React) y estudiante de 2º de DAM en el IES Hermenegildo Lanz, Granada. Construyo aplicaciones web completas para clientes reales, desde la base de datos hasta el despliegue.
 
-**Busco prácticas (formación en empresa) de febrero a mayo de 2027** en Granada o Jaén, presencial o híbrido.
+**Busco prácticas (formación en empresa) entre el periodo de febrero a mayo de 2027** en Granada o Jaén, presencial o híbrido, para posterior contratación si encajo correctamente.
+Las fechas o meses de comienzo o fin son orientativos, tengo total flexibilidad para adaptarme a cualquier periodo.
 
 ## Proyectos
 
