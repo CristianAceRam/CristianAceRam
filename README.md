@@ -18,6 +18,16 @@ Reservas online para una barbería real. Los clientes reservan, cancelan y repro
 
 `FastAPI` `SQLAlchemy 2` `PostgreSQL` `React 19` `Vite` `Docker` `Render`
 
+### [Bar El Algoritmo](https://github.com/CristianAceRam/bar-el-algoritmo) · Taller en el Congreso de IA de Granada 2026
+
+Clasificador de reseñas que el público usó en directo: escaneaban un QR, escribían una reseña y una IA la clasificaba, la proyectaba en un panel y avisaba por Telegram de las quejas urgentes. Hice todo el desarrollo y la demo; Canal Sur nos entrevistó sobre el proyecto.
+
+- Salida estructurada con JSON Schema y temperatura 0: la IA solo responde con categorías fijas y las reglas actúan sobre ellas.
+- Modelo de respaldo y reintentos: ningún fallo de la IA llega al público.
+- Protección frente a prompt injection y XSS; el túnel solo publica las rutas del formulario.
+
+`n8n` `LLM (Groq)` `JSON Schema` `Docker` `Telegram Bot API` `JavaScript`
+
 ### [πίστη](https://github.com/CristianAceRam/AplicacionWebBarberiaYRopa) · cliente real, pendiente de despliegue
 
 Citas de barbería y catálogo de ropa en una sola app, con panel de administración completo y frontend mobile-first.
@@ -37,6 +47,7 @@ Aplicación para gestionar las prácticas del centro, con autenticación JWT y c
 - **Datos:** PostgreSQL, MariaDB, SQL
 - **Infra:** Docker, Nginx, Git, Render
 - **En el ciclo:** Java (JDBC/ORM), Android, Odoo
+- **Automatización e IA:** n8n, LLMs vía API, salida estructurada (JSON Schema)
 
 ## Cómo trabajo
 
@@ -45,8 +56,6 @@ Uso Claude Code y agentes de programación en mi flujo diario: especifico el pro
 ## Contacto
 
 - Email: cristianaceitunor9@gmail.com
-- LinkedIn: www.linkedin.com/in/cristian-aceituno-ramirez
-cristian-aceituno-ramirez
-Nombre de la URL personalizada
+- LinkedIn: [linkedin.com/in/cristian-aceituno-ramirez](https://www.linkedin.com/in/cristian-aceituno-ramirez)
 
 - Español nativo · Inglés C1 (Cambridge)
