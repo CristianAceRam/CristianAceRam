@@ -18,7 +18,7 @@ Reservas online para una barbería real. Los clientes reservan, cancelan y repro
 
 `FastAPI` `SQLAlchemy 2` `PostgreSQL` `React 19` `Vite` `Docker` `Render`
 
-### [ClasificadorResenasConIA_n8n_LLM](https://github.com/CristianAceRam/bar-el-algoritmo) · Taller en el Congreso de IA de Granada 2026
+### [Bar el Algoritmo](https://github.com/CristianAceRam/ClasificadorResenasConIA_n8n_LLM) · Taller en el Congreso de IA de Granada 2026
 
 Clasificador de reseñas que el público usó en directo: escaneaban un QR, escribían una reseña y una IA la clasificaba, la proyectaba en un panel y avisaba por Telegram de las quejas urgentes. Hice todo el desarrollo y la demo; Canal Sur nos entrevistó sobre el proyecto.
 
